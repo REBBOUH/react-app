@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zsoft",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "zsoft",
+    "packageName": "com.zsoft",
+    "packageFolder": "com/zsoft",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmQzOWQ0MjE2YTk0Yzg1OTJlNTg1Y2M0NDE1ZDkyNWI2NjZjYTA2ZmIxMWE2MzA2NmRlODE4OWQ4OWRhOTY4ZTQ2ZWIxNTZlYTMxYjYxNmI5NDM2NWU2MzkyZmEzMTEwZDYxNTA3ZWIxYzA1ZDdhNzNhZjFmZGNlNWRhYjIwYTY=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "zs",
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ]
+  }
+}
